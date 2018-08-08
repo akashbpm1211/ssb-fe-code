@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "ssb_test",
   "main": "index.js",
+  "repository": "https://github.com/akashbpm1211/ssb-fe-code.git",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production",
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "akash",
   "license": "ISC",
