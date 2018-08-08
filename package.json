@@ -6,7 +6,7 @@
   "repository": "https://github.com/akashbpm1211/ssb-fe-code.git",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production",
+    "build": "webpack --mode production"
   },
   "author": "akash",
   "license": "ISC",
