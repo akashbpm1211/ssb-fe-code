@@ -11,7 +11,7 @@ npm
 
 Steps to deploy a local version:
 ```
-1. Clone the Workshop repo. 
+1. Clone the Repo
 2. cd ssb-fe-code
 3. npm install (Installs dependencies)
 4. npm start
